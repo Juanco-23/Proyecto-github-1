@@ -1,0 +1,76 @@
+.barra{
+    background-color: #da1010d5;
+}
+.imgMia{
+    height:px;
+    width: 220px;
+}
+
+.titulo1{
+    color: rgb(255, 255, 255);
+}
+.texto1{
+    color: rgb(255, 255, 255);
+}
+
+.foot{
+background-color: 
+#950101;
+
+}
+.text-foot{
+    padding: 20px;
+    text-decoration: none;
+    color: #000000 ;
+}
+.text-foot-1{
+    color: #EEEEEE ;
+text-decoration: none;
+display: inline;
+}
+.text-foot-2{
+    color: #EEEEEE ;
+    text-decoration: none;
+    display: inline;
+}
+.img-insta{
+    width: 30px;
+    height: 20px;
+    display: inline-block;
+}
+
+.titulo2{
+    color: white;
+}
+
+.titulo3{
+    color: white;
+    text-align: center;
+}
+.texthobi{
+    padding: 1cm;
+    color: white;
+}
+
+.titudibu{
+    padding: 10px;
+    color: white;
+}
+
+.img{
+    height: 620px;
+    width: 100px;
+}
+
+.imgpiano{
+    height: 200px;
+    width: 100px ;
+    
+}
+
+.imglibro{
+    height: 120px;
+    width: 100px ;
+    margin: 20px;
+
+}
